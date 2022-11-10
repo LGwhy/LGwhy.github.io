@@ -84,7 +84,7 @@ var config = {
         ["./images/pro-2.png", "https://github.com/LGwhy/Five_Chess", "智能人机/人人对战五子棋", "使用Java语言编写的智能五子棋人机/人人对战<br>2021/10/19"],
         ["./images/pro-4.png", "https://github.com/LGwhy/Ncwu_PM", "物业管理系统", "使用MVC框架编写的物业管理系统<br>2022/05/29"],
         ["./images/pro-5.png", "https://github.com/LGwhy/DB_Library", "图书管理系统", "基于MySQL数据库，采用Python编写的图书管理系统<br>2021/12/30"],
-        ["./images/pro-6.png", "https://github.com/happysnaker/Gobang", "校庆网页设计", "使用脚本语言设计“校庆70周年”主题网页<br>2021/12/26"]
+        ["./images/pro-6.png", "https://github.com/LGwhy/School_Anniversary70", "校庆网页设计", "使用脚本语言设计“校庆70周年”主题网页<br>2021/12/26"]
     ],
 
 
